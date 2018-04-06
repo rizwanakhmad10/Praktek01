@@ -12,5 +12,11 @@ package praktek01;
 public class KacamataAksi2 {
     public static void main(String[] args) {
        Kacamata Udin = new Kacamata ();
+       
+       Udin.Merk="Oakley";
+       Udin.Lensa="Minus";
+       Udin.Warna="Biru";
+       Udin.Frame="Plastik";
+       Udin.Harga=250000;
     }
 }
