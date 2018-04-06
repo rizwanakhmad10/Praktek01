@@ -11,6 +11,6 @@ package praktek01;
  */
 public class KacamataAksi2 {
     public static void main(String[] args) {
-        
+       Kacamata Udin = new Kacamata ();
     }
 }
