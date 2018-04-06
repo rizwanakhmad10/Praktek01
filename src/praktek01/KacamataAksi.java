@@ -18,5 +18,7 @@ public class KacamataAksi {
         Rizwan.Warna="Hitam";
         Rizwan.Frame="Lentur";
         Rizwan.Harga=500000;
+        
+        Rizwan.cetakInfo();
     }
 }
