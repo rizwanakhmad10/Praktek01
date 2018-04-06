@@ -18,5 +18,7 @@ public class KacamataAksi2 {
        Udin.Warna="Biru";
        Udin.Frame="Plastik";
        Udin.Harga=250000;
+       
+       Udin.cetakInfo();
     }
 }
